@@ -37,7 +37,7 @@ I mainly code in JavaScript
 ---
 <h2 align="center">Social</h2>
 <h3 align="center">Here you can see my Social Media</h3>
-<h3 align="center"><a href="https://twitter.com/yuukasuoh">Twitter</a> | Discord - Вук#1097</h3>
+<h3 align="center"><a href="https://twitter.com/yuukasuoh" target="_blank">Twitter</a> | Discord - Вук#1097</h3>
 
 ---
 
