@@ -17,9 +17,9 @@ I mainly code in JavaScript
   
 ---
 <h2 align="center">Hobbies</h2>
-<p align="center">Other than coding, I like to spend time playing games or reading history books</p>
-<p align="center">The books I like to read the most are the ones about stoicism</p>
-<p align="center">Like I said I love watching anime so you can see my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here
+<h4 align="center">Other than coding, I like to spend time playing games or reading history books</h4>
+<h4 align="center">The books I like to read the most are the ones about stoicism</h4>
+<h4 align="center">Like I said I love watching anime so you can see my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here
 
 ---
 <h1 align="center">Languages and Tools</h1>
