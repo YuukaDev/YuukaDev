@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/fMIk835YsVVRy6QbWS/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/fMIk835YsVVRy6QbWS/giphy.gif" width="80%">
 </p>
 
 ## <h1 align="center">Heeeyy, I'm Yuuka</h1>
