@@ -26,7 +26,7 @@ I mainly code in JavaScript
 
 <p align="center">
 <img src="img/html5.png" width="50px">
-<img src="img/css3.png" width="50px">
+<img src="img/css.png" width="50px">
 <img src="img/javascript.svg" width="50px">
 <img src="img/node.svg" width="50px">
 <img src="img/github.svg" width="50px">
