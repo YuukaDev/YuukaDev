@@ -25,8 +25,8 @@ I mainly code in JavaScript
 <h1 align="center">Languages and Tools</h1>
 
 <p align="center">
-<img src="img/html5.svg" width="50px">
-<img src="img/css3.svg" width="50px">
+<img src="img/html5.png" width="50px">
+<img src="img/css3.png" width="50px">
 <img src="img/javascript.svg" width="50px">
 <img src="img/node.svg" width="50px">
 <img src="img/github.svg" width="50px">
