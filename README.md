@@ -16,23 +16,33 @@ I mainly code in JavaScript
 ```
   
 ---
-<h2 align="center">Hobbies</h2>
+<h1 align="center">Hobbies</h2>
 <h4 align="center">Other than coding, I like to spend time playing games or reading history books</h4>
 <h4 align="center">The books I like to read the most are the ones about stoicism</h4>
-<h4 align="center">Like I said I love watching anime so you can see my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here
+<h4 align="center">Like I said I love watching anime so you can see my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here</h4>
 
 ---
-<h1 align="center">Languages and Tools</h1>
-
+<h1 align="center">Languages | Tools | Frameworks</h1>
 <p align="center">
-<img src="img/html5.png" width="50px">
-<img src="img/css.png" width="50px">
-<img src="img/javascript.svg" width="50px">
-<img src="img/node.svg" width="50px">
-<img src="img/github.svg" width="50px">
-<img src="img/git.svg" width="50px">
-<img alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img src="img/html5.png" width="60px">
+<img src="img/css.png" width="60px">
+<img src="img/javascript.png" width="60px">
+<img src="img/node.png" width="60px">
+<img src="img/bootstrap.png" width="60px">
+<img src="img/react.png" width="60px">
+<img src="img/github.png" width="60px">
+<img src="img/git.png" width="60px">
+<img src="img/visualstudiocode.png" width="60px">
+<img src="img/linux.png" width="60px">
 </p>
+ <div align="center">
+ <h2>Things I'm Interested In</h2>
+  <code>Ruby</code>
+  <code>Go</code>
+  <code>Lua</code>
+  <code>Scala</code>
+  <code>TypeScript</code>
+ </div>
 
 ---
 <h2 align="center">Social</h2>
