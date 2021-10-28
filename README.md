@@ -11,7 +11,7 @@ Hi everyone my name is Yuuka and i love to code
 I found a love for coding when I was little
 There are many other things I like to do besides coding
 I like to watch anime and read manga
-I am currently working on a project where I am creating a discord bot called Xquisite
+Currently learning React & making Xquisite better
 I mainly code in JavaScript
 ```
   
