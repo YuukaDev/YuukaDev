@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/fMIk835YsVVRy6QbWS/giphy.gif" width="70%">
+<img src="https://media3.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif?cid=ecf05e47xgilwtr4gvjb79h4n07ieglzs7bsk98mmapcoqdo&rid=giphy.gif&ct=g" width="70%">
 </p>
 
 ## <h1 align="center">Heeeyy, I'm Yuuka</h1>
@@ -7,19 +7,18 @@
 
 ```py
 <Description>
-Hi everyone my name is Yuuka and i love to code
+Hi everyone my name is Yuuka and I am code enthusiast
 I found a love for coding when I was little
 There are many other things I like to do besides coding
-I like to watch anime and read manga
-Currently learning React & making Xquisite better
-I mainly code in JavaScript
+I like to read books about stoicism, history especially ancient history and sometimes read manga too
+Currently I am expanding my knowledge
 ```
   
 ---
 <h1 align="center">Hobbies</h2>
-<h4 align="center">Other than coding, I like to spend time playing games or reading history books</h4>
-<h4 align="center">The books I like to read the most are the ones about stoicism</h4>
-<h4 align="center">Like I said I love watching anime so you can see my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here</h4>
+<h4 align="center">Like I said other than coding, I like to spend time playing video games or reading history books</h4>
+<h4 align="center">The books I like to read the most are the ones about stoicism for example great personalties like Marcus Aurelius or Epictetus </h4>
+<h4 align="center">And also I like sometimes to watch some anime here's my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here</h4>
 
 ---
 <h1 align="center">Languages | Tools | Frameworks</h1>
@@ -45,8 +44,7 @@ I mainly code in JavaScript
  </div>
 
 ---
-<h2 align="center">Social</h2>
-<h3 align="center">Here you can see my Social Media</h3>
+<h2 align="center">Social Media</h2>
 <h3 align="center"><a href="https://twitter.com/yuukasuoh" target="_blank">Twitter</a> | Discord - Вук#1097</h3>
 
 ---
