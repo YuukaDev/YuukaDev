@@ -43,9 +43,9 @@ Currently I am expanding my knowledge
 <details>
 <summary>Social Media</summary>
 
-- [Twitter](https://twitter.com/yuukasuoh) 
+- 💬 [Twitter](https://twitter.com/yuukasuoh) 
  
-- Discord - Вук#1097
+- 💬 Discord - Вук#1097
 </details>
 
 ---
