@@ -9,7 +9,12 @@
 ---
 
 ```py
-	@@ -15,37 +16,37 @@ Currently I am expanding my knowledge
+<Description>
+Hi everyone my name is Yuuka and I am code enthusiast
+I found a love for coding when I was little
+There are many other things I like to do besides coding
+I like to read books about stoicism, history especially ancient history and sometimes read manga too
+Currently I am expanding my knowledge
 ```
 
 ---
@@ -17,7 +22,9 @@
 # Hobbies
 
 - **✨ Like I said other than coding, I like to spend time playing video games or reading history books**
+
 - **📚 The books I like to read the most are the ones about stoicism for example great personalties like Marcus Aurelius or Epictetus**
+
 - **🎬 And also I like sometimes to watch some anime here's my <a hreF="https://myanimelist.net/profile/snjule">MAL</a> profile here**
 
 ---
@@ -36,10 +43,18 @@
 <img src="img/linux.png" >
 </p>
 </details>
+
 <details>
 <summary>Social Media</summary>
-### [Twitter](https://twitter.com/yuukasuoh) 
- 
-### Discord - Вук#1097
+
+- 💬 [Twitter](https://twitter.com/yuukasuoh)
+
+- 💬 Discord - Вук#1097
 </details>
+
 ---
+
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YuukaDev&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YuukaDev&theme=tokyonight" />
+</p>
