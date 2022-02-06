@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.giphy.com/media/fMIk835YsVVRy6QbWS/giphy.gif" width="70%">
+<img src="https://media3.giphy.com/media/gH1jGsCnQBiFHWMFzh/giphy.gif?cid=ecf05e47xgilwtr4gvjb79h4n07ieglzs7bsk98mmapcoqdo&rid=giphy.gif&ct=g" width="80%">
 </p>
 
 ## <h1 align="center">Heeeyy, I'm Yuuka</h1>
@@ -8,12 +8,11 @@
 
 ```py
 <Description>
-Hi everyone my name is Yuuka and i love to code
+Hi everyone my name is Yuuka and I am code enthusiast
 I found a love for coding when I was little
 There are many other things I like to do besides coding
-I like to watch anime and read manga
-Currently learning React & making Xquisite better
-I mainly code in JavaScript
+I like to read books about stoicism, history especially ancient history and sometimes read manga too
+Currently I am expanding my knowledge
 ```
 
 ---
@@ -38,14 +37,7 @@ I mainly code in JavaScript
 <img src="img/visualstudiocode.png" width="60px">
 <img src="img/linux.png" width="60px">
 </p>
- <div align="center">
- <h2>Things I'm Interested In</h2>
-  <code>Ruby</code>
-  <code>Go</code>
-  <code>Lua</code>
-  <code>Scala</code>
-  <code>TypeScript</code>
- </div>
+</details>
 
 ---
 
