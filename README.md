@@ -33,7 +33,7 @@ Currently I am expanding my knowledge
 <summary>Languages | Tools | Frameworks</summary>
 <img src="img/html5.png" >
 <img src="img/css.png" >
-<img src="img/scss.png" >
+<img src="img/sass.png" >
 <img src="img/javascript.png" >
 <img src="img/node.png" >
 <img src="img/bootstrap.png" >
