@@ -39,11 +39,21 @@ Currently I am expanding my knowledge
 </p>
 </details>
 
+<<<<<<< HEAD
 ---
 
 <h2 align="center">Social</h2>
 <h3 align="center">Here you can see my Social Media</h3>
 <h3 align="center"><a href="https://twitter.com/yuukasuoh" target="_blank">Twitter</a> | Discord - Вук#1097</h3>
+=======
+<details>
+<summary>Social Media</summary>
+
+- 💬 [Twitter](https://twitter.com/yuukasuoh) 
+ 
+- 💬 Discord - Вук#1097
+</details>
+>>>>>>> 09163a893314d112c6736f5890b13c88e8ead111
 
 ---
 
