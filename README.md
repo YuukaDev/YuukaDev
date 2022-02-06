@@ -27,7 +27,7 @@ Currently I am expanding my knowledge
 <h1 align="center">Languages | Tools | Frameworks</h1>
 <p align="center">
 <img src="img/html5.png" width="60px">
-	@@ -37,27 +35,25 @@ Currently I am expanding my knowledge
+	Currently I am expanding my knowledge
 <img src="img/visualstudiocode.png" width="60px">
 <img src="img/linux.png" width="60px">
 </p>
