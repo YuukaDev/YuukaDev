@@ -55,8 +55,6 @@ Currently I am expanding my knowledge
 
 ---
 
-[![YuukaDev - GitHub](https://gh-card.dev/repos/YuukaDev.png)](https://github.com/YuukaDev)
-
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YuukaDev&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YuukaDev&theme=tokyonight" />
