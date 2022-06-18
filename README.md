@@ -33,11 +33,11 @@ Currently I am expanding my knowledge
 <summary>Languages | Tools | Frameworks</summary>
 <img src="img/html5.png" >
 <img src="img/css.png" >
-<img width="48px" height="48px" src="img/sass.png" >
-<img src="img/javascript.png" >
-<img src="img/node.png" >
-<img src="img/bootstrap.png" >
+<img src="img/javascript.png">
 <img src="img/react.png" >
+<img src="img/node.png" >
+<img width="48px" height="48px" src="img/sass.png" >
+<img src="img/bootstrap.png" >
 <img src="img/github.png" >
 <img src="img/git.png" >
 <img src="img/visualstudiocode.png" >
